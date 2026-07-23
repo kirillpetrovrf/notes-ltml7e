@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kirillpetrovrf.github.io/notes-ltml7e/sitemap.xml
